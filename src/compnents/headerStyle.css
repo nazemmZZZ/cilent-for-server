@@ -1,0 +1,9 @@
+.header{
+    display: flex;
+    /* justify-content:; */
+}
+.link{
+  
+    padding-right:21px;
+    margin: left 57px;
+}
